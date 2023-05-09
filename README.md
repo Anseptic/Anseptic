@@ -1,16 +1,13 @@
-### Hi there 👋
+![giphy](https://github.com/Anseptic/Anseptic/assets/130416128/7f53cb16-f214-4e8e-9d00-24372266d499)
 
-<!--
-**Anseptic/Anseptic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ✨ Hey there, I'm Ans! 😄 ✨ <sup>I'm ALL about automation, and ❤️ open source. I occasionally make 🎵, and develop whacky ideas using Python ⚡</sup>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🤔 Interested in anything physics!
+- 🌱 Currently learning **AWS and GCP!**
+- ⚡ Fun fact: I can read backwards!
+- 💬 Can speak Francais, Espanol, and 日本語！ 
+- 😄 Pronouns: They/them!
+  
+ ✨✨✨ 
